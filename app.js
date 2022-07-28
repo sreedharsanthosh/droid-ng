@@ -22,35 +22,35 @@ list.forEach((li) => {
 function tab1() {
   featuresHead.innerText = "Enjoy stability";
   featuresPara.innerText =
-    "We release stable updates every month keeping your device up to date with latest security patches.";
+    "We know how to code, not only how to cherry-pick - which is why our ROM is quite stable. :)";
   featuresImage.src = "./images/img4 1.png";
 }
 
 function tab2() {
-  featuresHead.innerText = "Make it yours";
+  featuresHead.innerText = "Open source";
   featuresPara.innerText =
-    "Customizations for your creativity.Make your device more yours by customizing and tweaking certain settings for your perfection.";
+    "Unlike many Android ROMs, we do not only share our source - we actively give back. We provide mods like OpenWellbeing decoupled of our ROM and help our friends debug issues, even if they belong to another ROM.";
   featuresImage.src = "./images/img4 1.png";
 }
 
 function tab3() {
-  featuresHead.innerText = "Stock UI";
+  featuresHead.innerText = "Our UI";
   featuresPara.innerText =
-    "Love pixel stock like UI and feel. Then you're in the right place. Feel smoothness and beauty of pixel stock material you UI.";
+    "Because we're tired of ROMs all looking the same or being gore - we have another unique option for you!";
   featuresImage.src = "./images/img4 1.png";
 }
 
 function tab4() {
-  featuresHead.innerText = "More battery";
+  featuresHead.innerText = "Everyone welcome";
   featuresPara.innerText =
-    "As all of us want, Droid-ng aim to provide as much battery backup as possible for your device, while at the same time keeping all the necessary features for you.";
+    "Everyone is welcome to just use this ROM or get actively involved! You can translate, design, build, code or just spread the word!";
   featuresImage.src = "./images/img4 1.png";
 }
 
 function tab5() {
-  featuresHead.innerText = "Get support";
+  featuresHead.innerText = "Healthy community";
   featuresPara.innerText =
-    "We are active on various social media platforms including twitter, telegram. So feel free to connect with us for any query or support and we'll be glad to help.";
+    "We are not another toxic gaming ROM community - we do help unofficial maintainers and answer all users' questions.";
   featuresImage.src = "./images/img4 1.png";
 }
 
